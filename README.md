@@ -6,6 +6,5 @@ I’m a graduation student pursuing a B.Sc. in Computer Science, and an aspiring
 ## Objective
 
 To develop strong skills in defensive cybersecurity, become a SOC Analyst, and later advance into offensive security roles — with the ultimate goal of becoming great in this field.
-## Tools
 
 
