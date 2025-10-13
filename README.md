@@ -16,11 +16,11 @@ As an aspiring SOC Analyst, I enjoy using my attention to detail and my passion 
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working ;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Linux and BashScripting;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything — I’m happy to help if I can:
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@redinit404);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: viswajith402@gmail.com;
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/developer.gif.gif" width="21" />&nbsp;&nbsp; I’m currently working ;
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Linux and BashScripting;
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything — I’m happy to help if I can:
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/laptop.gif" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@redinit404);
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: viswajith402@gmail.com;
 
 </br>
 
