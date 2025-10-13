@@ -7,7 +7,7 @@
 
 
 
-I am a passionate aspiring SOC Analyst, building strong defensive skills aiming to become a Proffessional SOC Analyst and Pentester. I love Learning the things i love - cybersecuirty,linux,networking and hacking.
+I am a passionate aspiring SOC Analyst, building strong defensive skills aiming to become a Proffessional SOC Analyst and Pentester. I love learning the things I’m passionate about — cybersecurity, Linux, networking, and hacking.
 
 As an aspiring SOC Analyst, I enjoy using my attention to detail and my passion for cybersecurity to learn and grow. I love learning Linux, networking, and hacking to build skills that help protect and defend systems
 
@@ -16,7 +16,7 @@ As an aspiring SOC Analyst, I enjoy using my attention to detail and my passion 
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Redinit/Redinit/blob/main/assets/developer.gif.gif" width="21" />&nbsp;&nbsp; I’m currently working ;
+- <img src="https://github.com/Redinit/Redinit/blob/main/assets/developer.gif.gif" width="21" />&nbsp;&nbsp; I’m currently working on Bash scripting projects and Linux automation.;
 - <img src="https://github.com/Redinit/Redinit/blob/main/assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Linux and BashScripting;
 - <img src="https://github.com/Redinit/Redinit/blob/main/assets/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything — I’m happy to help if I can:
 - <img src="https://github.com/Redinit/Redinit/blob/main/assets/laptop.gif" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@redinit404);
