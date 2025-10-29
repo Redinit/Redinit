@@ -7,9 +7,9 @@
 
 
 
-I am a passionate aspiring SOC Analyst, building strong defensive skills aiming to become a Proffessional SOC Analyst and Pentester. I love learning the things I’m passionate about — cybersecurity, Linux, networking, and hacking.
+I am a passionate aspiring Pentester, building strong offensive skills aiming to become a Proffessional Pentester. I love learning the things I’m passionate about — cybersecurity, Linux, networking, and hacking.
 
-As an aspiring SOC Analyst, I enjoy applying my passion for cybersecurity to learn, grow, and build skills to protect systems. I love learning Linux, networking, and hacking to build skills that help protect and defend systems
+As an aspiring Pentester, I enjoy applying my passion for cybersecurity to learn, grow, and build skills to protect systems. I love learning Linux, networking, and hacking to build skills
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RjdDEzNjRjMnlhZjdya3FkYzhsbXZ2ZzA1NHo2bnNoZnQzOXR3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmaYvew52UlC9MmB6l/giphy.gif" width="408" height="318" />
   
