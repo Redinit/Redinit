@@ -23,9 +23,3 @@ As an aspiring Pentester, I enjoy applying my passion for cybersecurity to learn
 - <img src="https://github.com/Redinit/Redinit/blob/main/assets/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: viswajith402@gmail.com;
 
 </br>
-
-
-
-📈 **My GitHub Stats:**
-
-
